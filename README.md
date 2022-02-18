@@ -17,7 +17,7 @@
 
 <h2>Status <a name="status_h"></a></h2>
 <p>Complete!! 🎉🎉🎉</p>
-<a href="https://cavs1010.github.io/passing_thoughts/"> Check the final result!! </a>
+<a href="https://github.com/cavs1010/transferLearning/blob/main/Transfer_Learning_activities.ipynb"> Check the final result!! </a>
 
 <h2>Acknowlegde <a name="acknowledge_h"></a></h2>
 <p>These exercices are based on the course <a href='https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/'>Zero to Mastery Deep Learning with TensorFlow</a> by the legend Daniel Bourke</p>
