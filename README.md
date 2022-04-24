@@ -1,5 +1,5 @@
 # 🐸is Kermit the frog or Pepe? > Transfer Learning<br>
-[Objective](#objective_h) | [Languajes](#languajes_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
+[Objective](#objective_h) | [Languages](#languages_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
 
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
@@ -9,7 +9,7 @@
 <p>Practice the usage of transfer Learning and Tensorboard</p>
 
 
-<h2>Languajes and tools<a name="languajes_h"></a></h2>
+<h2>Languages and tools<a name="languages_h"></a></h2>
 <p></p>
 <a href="https://www.python.org"><img src='https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg' width="40" height="40" alt='python'/></a>
 <a href="https://jupyter.org/"><img src='https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/jupyter.svg' width="40" height="40" alt='Jupyter notebook'/></a>
